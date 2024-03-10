@@ -1,0 +1,73 @@
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe.config
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.pdb
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.AssemblyReference.cache
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Properties.Resources.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.GenerateResource.cache
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.CoreCompileInputs.cache
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.exe
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.pdb
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.CopyComplete
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.MainUI_Form.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageStu_Form.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageAdvisors.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Projects.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Evaluations.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Groups.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Group.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Advisor.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GroupEvaluation.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GeneratePdf.resources
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\itextsharp.dll
+C:\Users\Best\Desktop\MidProject\Mid_Project\Mid_Project\bin\Debug\itextsharp.xml
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe.config
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\Mid_Project.pdb
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\BouncyCastle.Crypto.dll
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\FontAwesome.Sharp.dll
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\itextsharp.dll
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\bin\Debug\itextsharp.xml
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.AssemblyReference.cache
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.SuggestedBindingRedirects.cache
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Advisor.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Group.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.MainUI_Form.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageStu_Form.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageAdvisors.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GeneratePdf.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GroupEvaluation.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Evaluations.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Groups.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Projects.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Properties.Resources.resources
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.GenerateResource.cache
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.CoreCompileInputs.cache
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.CopyComplete
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.exe
+E:\New folder (4)\MidProject\Mid_Project\Mid_Project\obj\Debug\Mid_Project.pdb
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe.config
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\Mid_Project.exe
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\Mid_Project.pdb
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\BouncyCastle.Crypto.dll
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\FontAwesome.Sharp.dll
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\itextsharp.dll
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\bin\Debug\itextsharp.xml
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.AssemblyReference.cache
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Advisor.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.AssignProject_Group.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.MainUI_Form.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageStu_Form.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.ManageAdvisors.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GeneratePdf.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.GroupEvaluation.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Evaluations.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Groups.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Manage_Projects.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.Properties.Resources.resources
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.GenerateResource.cache
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.csproj.CoreCompileInputs.cache
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Proj.26E82266.Up2Date
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.exe
+E:\Disk D\Semester 4\DB LAB Projects\FYP-Final-Year-Management-Syste\FYPMS\Mid_Project\Mid_Project\obj\Debug\Mid_Project.pdb
