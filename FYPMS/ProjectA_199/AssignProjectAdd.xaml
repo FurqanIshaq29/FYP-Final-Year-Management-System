@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="ProjectA_199.AssignProjectAdd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjectA_199"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Height="400" Background="#FFF39090">
+        <Label x:Name="Evaluation" Content="Enter Project Name" HorizontalAlignment="Left" Margin="5,14,0,0" VerticalAlignment="Top" Background="Transparent" FontSize="14"/>
+        <TextBox x:Name="SearchAdvisor" HorizontalAlignment="Left" Margin="139,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Height="23" TextChanged="SearchAdvisor_TextChanged"/>
+        <Button x:Name="Cancel_Copy" Content="Cancel" HorizontalAlignment="Left" Margin="548,8,0,0" VerticalAlignment="Top" Height="31" Width="113" RenderTransformOrigin="0.024,0.29" Background="#FFD22626"/>
+        <Button x:Name="AddEva" Content="Assign Project" HorizontalAlignment="Left" Margin="688,8,0,0" VerticalAlignment="Top" Height="31" Width="102" RenderTransformOrigin="0.024,0.29" Background="#FF0F7900"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,88,413,173"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,256,538,0"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="405,88,0,173"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="539,256,-2,0"/>
+        <Label x:Name="Evaluation_Copy1" Content="Select Group" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Background="White" FontSize="14"/>
+        <Label x:Name="Evaluation_Copy2" Content="Co-Advisor" HorizontalAlignment="Left" Margin="267,227,0,0" VerticalAlignment="Top" Background="White" FontSize="14"/>
+        <Label x:Name="Evaluation_Copy3" Content="Main Advisor" HorizontalAlignment="Left" Margin="0,227,0,0" VerticalAlignment="Top" Background="White" FontSize="14"/>
+        <Label x:Name="Evaluation_Copy4" Content="Select Project" HorizontalAlignment="Left" Margin="407,59,0,0" VerticalAlignment="Top" Background="White" FontSize="14"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="267,256,266,0"/>
+        <Label x:Name="Evaluation_Copy" Content="Industry Advisor" HorizontalAlignment="Left" Margin="539,227,0,0" VerticalAlignment="Top" Background="White" FontSize="14"/>
+        <DatePicker HorizontalAlignment="Left" Margin="214,59,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Evaluation_Copy5" Content="Assignment Date" HorizontalAlignment="Left" Margin="303,11,0,0" VerticalAlignment="Top" Background="Transparent" FontSize="14"/>
+        <DatePicker HorizontalAlignment="Left" Margin="423,13,0,0" VerticalAlignment="Top" Width="111"/>
+
+    </Grid>
+</UserControl>
